@@ -14,7 +14,10 @@ This inital page prompts users to login to the system. If the submitted credenta
 
 ![register](https://user-images.githubusercontent.com/5677692/27158559-6e1b9240-515f-11e7-974f-559ea534c0c7.jpg)
 
-The registration page is capable of querying the SQL database, ensuring information such as usernames are not duplicated (primary key). The client program also has methods in place which ensure the email is in a valid format, password is a certain length (i.e. greater than 8 characters), and the password and confirm password match. The N+T values define the level of access that users have to certain files. This is currently implemented to allow easier testing and debugging of the application and will be later moved to the server side of the system, ensuring only the database administator is able to set access levels. 
+The registration page is capable of querying the SQL database, ensuring information such as usernames are not duplicated (primary key). The client program also has methods in place which ensure the email is in a valid format, password is a certain length (i.e. greater than 8 characters), and the password and confirm password match. The N+T values define the level of access that users have to certain files. This is currently implemented to allow easier testing of the application and will be later moved to the server side of the system, ensuring only the database administator is able to set file access levels. 
+
+
+## Dashboard
 
 
 
