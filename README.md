@@ -12,6 +12,8 @@ This inital page prompts users to login to the system. If the submitted credenta
 
 ## Register
 
+![register](https://user-images.githubusercontent.com/5677692/27158559-6e1b9240-515f-11e7-974f-559ea534c0c7.jpg)
+
 
 
 
