@@ -19,6 +19,20 @@ The registration page is capable of querying the SQL database, ensuring informat
 
 ## Dashboard
 
+![dashboard](https://user-images.githubusercontent.com/5677692/27159837-e67a9918-5167-11e7-987b-65deada2c25a.jpg)
+
+## Uploads
+
+![upload](https://user-images.githubusercontent.com/5677692/27159838-e75dbcca-5167-11e7-9e2c-ddbc6bf05b8a.jpg)
+
+## Downloads
+
+![download](https://user-images.githubusercontent.com/5677692/27159840-e84ad0aa-5167-11e7-9c18-32db488b1f7d.jpg)
+
+## Settings
+
+![setttings](https://user-images.githubusercontent.com/5677692/27159841-e9549c88-5167-11e7-94c4-be57fd071e35.jpg)
+
 
 
 
