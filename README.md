@@ -19,19 +19,30 @@ The registration page is capable of querying the SQL database, ensuring informat
 
 ## Dashboard
 
-![dashboard](https://user-images.githubusercontent.com/5677692/27159837-e67a9918-5167-11e7-987b-65deada2c25a.jpg)
+![dashboard](https://user-images.githubusercontent.com/5677692/27159957-9ba69bac-5168-11e7-9982-a1fdd4222267.jpg)
+
+The main dashboard is primariliy used to provide information and navigation. From here the user has access to services including file upload, download, and user settings configuration.
+
 
 ## Uploads
 
-![upload](https://user-images.githubusercontent.com/5677692/27159838-e75dbcca-5167-11e7-9e2c-ddbc6bf05b8a.jpg)
+![upload](https://user-images.githubusercontent.com/5677692/27159959-9c6cdb0a-5168-11e7-8e52-b3939d564864.jpg)
+
+As shown, the uploads service allow users to select a file from their local machine to be submitted to the SQL database. The method used to achieve this involves converting the file into bytes, separating it into shares, and saving it to blob storage.
+
 
 ## Downloads
 
 ![download](https://user-images.githubusercontent.com/5677692/27159840-e84ad0aa-5167-11e7-9c18-32db488b1f7d.jpg)
 
+The download page queries the SQL database and displays all files currently hosted on the server. Assuming the users N+T values are greater than the file, they are able to download and rebuild the bytes into a readable file output.
+
+
 ## Settings
 
 ![setttings](https://user-images.githubusercontent.com/5677692/27159841-e9549c88-5167-11e7-94c4-be57fd071e35.jpg)
+
+A basic account management page that allow users to edit or delete their profile. This service uses similar validation methods to the register page, ensuring there is no duplication of usernames, emails, etc.
 
 
 
